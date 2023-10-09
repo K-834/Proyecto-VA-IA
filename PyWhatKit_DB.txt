@@ -1,0 +1,144 @@
+Date: 9/10/2023
+Time: 5:5
+Phone Number: +51953053935
+Message: Este es un mensaje de prueba desde Python.
+Date: 9/10/2023
+Time: 5:40
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 5:43
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 5:47
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 5:55
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 7:3
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 7:11
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 7:16
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 7:20
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 7:24
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 7:24
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_1.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:25
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_2.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:25
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_3.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:25
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_4.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:30
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_1.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:31
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_2.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:31
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_3.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:31
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_4.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:32
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_5.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:32
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_6.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:32
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_7.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 7:33
+Phone Number: +51953053935
+Message: Persona desconocida detectada por más de 10 segundos
+--------------------
+Date: 9/10/2023
+Time: 8:10
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_1.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 8:10
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_2.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 8:11
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_3.jpg
+Caption: 
+--------------------
+Date: 9/10/2023
+Time: 8:11
+Phone Number: +51953053935
+Image: Personas_Desconocidas\persona_desconocida_4.jpg
+Caption: 
+--------------------
