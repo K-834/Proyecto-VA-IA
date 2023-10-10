@@ -3,22 +3,22 @@ import backendFace as faceVAIA
 # EJECUCION DEL PROYECTO
 
 if __name__ == "__main__":
-    # video = "prueba/ejemplo2.mp4"
 
-    Tvideo = input("Metodo de video : ")
+    metodo = input("Ingresa el número del método que deseas utilizar: ")
 
-    if Tvideo == "0":
+    if metodo == "1":
         tipoVideo = 0
-
-    if Tvideo == "1":
+    elif metodo == "2":
         tipoVideo = "prueba/ejemplo2.mp4"
-
-    if Tvideo == "2":
-        ip_address = "192.168.0.100"  # Reemplaza con la IP de tu teléfono
-        port = 8080  # Reemplaza con el puerto configurado en la aplicación
+    elif metodo == "3":
+        ip_address = "192.123.231.1"
+        port = 8080
         tipoVideo = f"http://{ip_address}:{port}/video"
+    else:
+        print("Método no válido. Por favor, selecciona una opción válida.")
 
+    if tipoVideo:
 
-    # faceVAIA.opencv_processing(tipoVideo)   #modelo enfocado al envio de imagenes y texto WHATSAPP
-    # faceVAIA.VerificacionSesion()           #verificación de datos biometricos
-    # faceVAIA.run3(tipoVideo)                #verificación de rostros
+        faceVAIA.opencv_processing(tipoVideo)   #modelo enfocado al envio de imagenes y texto WHATSAPP
+        faceVAIA.VerificacionSesion()           #verificación de datos biometricos
+        faceVAIA.run3(tipoVideo)                #verificación de rostros
