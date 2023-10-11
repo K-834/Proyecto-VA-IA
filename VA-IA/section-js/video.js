@@ -33,3 +33,24 @@ document.addEventListener('DOMContentLoaded', function() {
         openVideoModal(currentCameraIndex);
     });
 });
+document.getElementById("formularioEjecutar").addEventListener("submit", function (event) {
+            event.preventDefault();
+            // Realizar la solicitud POST al servidor Flask
+            fetch('../../ProyectoVAIA.py', {
+                method: 'POST',
+                body: JSON.stringify({}),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            }).then(response => {
+                if (response.ok) {
+                    return response.text();
+                } else {
+                    return Promise.reject('Error en la solicitud');
+                }
+            }).then(data => {
+                console.log(data);
+            }).catch(error => {
+                console.error(error);
+            });
+        });

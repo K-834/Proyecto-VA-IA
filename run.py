@@ -21,6 +21,6 @@ if __name__ == "__main__":
 
     if tipoVideo:
 
-        faceVAIA.opencv_processing(tipoVideo)   #modelo enfocado al envio de imagenes y texto WHATSAPP
-        faceVAIA.VerificacionSesion()           #verificación de datos biometricos
+        #faceVAIA.opencv_processing(tipoVideo)   #modelo enfocado al envio de imagenes y texto WHATSAPP
+        #faceVAIA.VerificacionSesion()           #verificación de datos biometricos
         faceVAIA.run3(tipoVideo)                #verificación de rostros
