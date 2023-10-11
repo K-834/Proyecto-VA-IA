@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cont-sidebar {
+    width: 15%;
+}
+
+.cont-sect{
+    width: 85%;
+    background-color: #dad4d4;
+}
+
+.notice-principal {
+    max-height: 50%;
+}
+.notice-secundary {
+    height: 45%;
+}
+.card-se {
+    height: 280px;
+}
+.ca-se {
+    height: 160px;
+}

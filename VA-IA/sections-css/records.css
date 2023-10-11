@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont-sidebar {
+    width: 15%;
+}
+
+.cont-sect{
+    width: 85%;
+}
+
+a{
+    color: black;
+}

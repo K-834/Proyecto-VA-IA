@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cont-sidebar {
+    width: 15%;
+}
+
+.cont-sect{
+    width: 85%;
+    background-color: #ffffff;
+}
+
+.card{
+    background-color: #ffffff;
+}
+
+a{
+    color: black;
+}
+

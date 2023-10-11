@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont-sidebar {
+    width: 15%;
+}
+
+.cont-sect{
+    width: 85%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.cont-camera {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    height: 100vh;
+}
+
+.camera {
+    padding: 0px;
+    background-color: #f0f0f0;
+    text-align: center;
+    font-size: 18px;
+    border: 1px solid #ccc;
+}
+
+
+.modal-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

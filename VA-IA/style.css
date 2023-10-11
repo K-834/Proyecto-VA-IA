@@ -1,0 +1,23 @@
+#sidebar {
+    width: 15%;
+    background-color: #2e2d6f;
+    overflow: hidden;
+}
+
+.nav-item {
+    background-color: #2e2d6f;
+    transition: background-color 0.3s ease;
+}
+.nav-item:hover{
+    background-color: rgb(6, 102, 102);
+    border-radius: 3px;
+}
+.nav-item a:active {
+    background-color: rgb(6, 102, 102);
+    border-radius: 3px;
+}
+
+.myicon {
+    height: 18px;
+    width: 18px;
+}
